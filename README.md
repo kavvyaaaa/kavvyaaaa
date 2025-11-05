@@ -4,6 +4,3 @@
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavvyaaaa&show_icons=true&theme=radical)
 
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=kavvyaaaa&theme=radical)
-
