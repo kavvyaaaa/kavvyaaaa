@@ -9,6 +9,7 @@
 <div align="center">
   
 A Computer Science student with interest in Artificial Intelligence, Machine Learning, Data Science and Web Development.
+
 Interested in AI, real-world applications, and tech innovation
 
 </div>
